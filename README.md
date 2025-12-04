@@ -8,6 +8,8 @@ Este projeto implementa e avalia modelos de Machine Learning (Regressão Linear,
 
 Para rodar o projeto, você precisará dos arquivos: `Trabalho_M8_final_v3.ipynb`, `app.py` e `best_knn_model_f1_0.7296.joblib`.
 
+**NOTA:** o arquivo do modelo treinado 'best_knn_model_f1_0.7296.joblib' encontra-se compactado devido restrição de upload de arquivo via web do GitHub.
+
 ### 1. Requisitos de Biblioteca
 
 Use o arquivo `requirements.txt` para instalar todas as dependências:
@@ -106,4 +108,5 @@ Execução: Abra o terminal na pasta do projeto e execute:
 Bash
 
 streamlit run app.py
+
 O navegador abrirá automaticamente a interface (geralmente em http://localhost:8501).
